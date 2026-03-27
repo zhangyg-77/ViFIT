@@ -14,3 +14,4 @@ dependencies:
   - numpy==1.19.2
   - visdom==0.1.8
   - wandb==0.12.18
+
