@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/SHG --name SHG --model cycle_gan --no_dropout --display_env SHG --continue_train --epoch_count 2

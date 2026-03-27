@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/delete_breast_pan-cancer --name delete_breast_pan-cancer --model cycle_gan

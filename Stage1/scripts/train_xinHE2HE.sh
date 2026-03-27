@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/XF_7.1 --name XF_7.1 --model cycle_gan --cls --display_env XF_7.1 
