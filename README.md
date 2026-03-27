@@ -1,7 +1,12 @@
 # ViFlT-assisted Histopathology: From H&E Style Standardization to Virtual Fiber Image Transformation
 
-[ViFIT Paper](https://doi.org/10.1016/j.media.2026.104051)
-Shu Wang#, Xiao Zhang#, Xingfu Wang#, Chenyong Lv, Xiahui Han, Xiong Lin, Deyong Kang, Ruolan Lin, Liwen Hu, Feng Huang*, Wenxi Liu*, Jianxin Chen*
+🔥🔥[ViFIT Paper](https://doi.org/10.1016/j.media.2026.104051) Published in Medical Image Analysis (MIA).  <br>
+
+# Authors
+
+Shu Wang#, Xiao Zhang#, Xingfu Wang#, Chenyong Lv, Xiahui Han,
+Xiong Lin, Deyong Kang, Ruolan Lin, Liwen Hu, Feng Huang*, Wenxi Liu*, Jianxin Chen*
+
 
 ## Pytorch implementation of ViFIT
 
